@@ -1,0 +1,33 @@
+﻿  BlankProject.cpp
+H:\Desktop\CSC8502_coursework\Blank Project\Tree.h(18,2): warning C4091:  'typedef ': ignored on left of 'LODLEVELS' when no variable is declared
+H:\Desktop\CSC8502_coursework\Blank Project\Tree.h(42,18): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.h(10,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Renderer.cpp
+H:\Desktop\CSC8502_coursework\Blank Project\Water.h(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Desktop\CSC8502_coursework\Blank Project\Tree.h(18,2): warning C4091:  'typedef ': ignored on left of 'LODLEVELS' when no variable is declared
+H:\Desktop\CSC8502_coursework\Blank Project\Tree.h(42,18): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.h(10,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Desktop\CSC8502_coursework\Blank Project\Water.h(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(9,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Desktop\CSC8502_coursework\Blank Project\ParticleEmitter.h(63,22): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(10,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(225,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(230,62): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(397,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(493,16): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(492,22): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(491,51): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(501,22): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(500,16): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(499,53): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(707,35): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(775,81): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(867,83): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1614,82): warning C4267:  'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1634,89): warning C4305:  'argument': truncation from 'double' to 'const float'
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1641,18): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1640,24): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1639,59): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Desktop\CSC8502_coursework\Blank Project\Renderer.cpp(1662): warning C4715:  'Renderer::GenerateModelMatrix': not all control paths return a value
+  BlankProject.vcxproj -> H:\Desktop\CSC8502_coursework\x64\Debug\Blank Project.exe

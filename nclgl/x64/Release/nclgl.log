@@ -1,0 +1,41 @@
+﻿  glad.c
+  Camera.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ComputeShader.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CubeRobot.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Frustum.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GameTimer.cpp
+  HeightMap.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\xfaus\Desktop\CSC8502\nclgl\HeightMap.cpp(24,48): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8502\nclgl\HeightMap.cpp(24,31): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8502\nclgl\HeightMap.cpp(25,39): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8502\nclgl\HeightMap.cpp(25,36): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  Keyboard.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\xfaus\Desktop\CSC8502\nclgl\OGLRenderer.cpp(138,42): error C2039: "DebugCallback": 不是 "OGLRenderer" 的成员
+C:\Users\xfaus\Desktop\CSC8502\nclgl\OGLRenderer.h(49): message : 参见“OGLRenderer”的声明
+C:\Users\xfaus\Desktop\CSC8502\nclgl\OGLRenderer.cpp(138,55): error C2065: “DebugCallback”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8502\nclgl\OGLRenderer.cpp(249,19): error C2039: "DebugCallback": 不是 "OGLRenderer" 的成员
+C:\Users\xfaus\Desktop\CSC8502\nclgl\OGLRenderer.h(49): message : 参见“OGLRenderer”的声明
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Shader.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Window.cpp
+C:\Users\xfaus\Desktop\CSC8502\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
